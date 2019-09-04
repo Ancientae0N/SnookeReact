@@ -12,7 +12,7 @@ cd to server and then install :
       
       `pip install pymongo`
       
- Then run `python -m flask run` to start the server
+ Then run `python -m flask run` in the server folder to start the server
  
  Todo
  
