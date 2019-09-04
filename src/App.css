@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
 .App {
   text-align: center;
 }
@@ -22,7 +23,14 @@
 .App-link {
   color: #61dafb;
 }
-
+.snooker{
+  font-family: "Seaweed Script";
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  position: relative;
+  margin:0;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
